@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "./static/css/main.0364db46.css",
+    "main.js": "./static/js/main.34087260.js",
+    "static/media/pic 1.png": "./static/media/pic 1.729e47f7c4981231ee78.png",
+    "static/media/attendence.png": "./static/media/attendence.3a59eac6c3a0a416bf93.png",
+    "static/media/online.png": "./static/media/online.a40887e79985abada1f5.png",
+    "static/media/online-tic-tac.png": "./static/media/online-tic-tac.05e7126e40da356db3d1.png",
+    "static/media/articles.png": "./static/media/articles.542e71c9a72c25351276.png",
+    "static/media/sold.png": "./static/media/sold.4f088218759ca2c866f4.png",
+    "static/media/web.jpeg": "./static/media/web.909bc086df33638c76a9.jpeg",
+    "static/media/select-category.png": "./static/media/select-category.8962d969648355697c80.png",
+    "static/media/form-screen.png": "./static/media/form-screen.493c09e2fdd00e91e622.png",
+    "static/media/html.jpeg": "./static/media/html.37d312d41d891fd8b9d7.jpeg",
+    "static/media/drawable.png": "./static/media/drawable.68c5616aab5f6dfef22e.png",
+    "static/media/mobile.jpeg": "./static/media/mobile.5d59950ac3c092f41f5b.jpeg",
+    "static/media/ludo.png": "./static/media/ludo.77ef305b2acd0f7686a6.png",
+    "static/media/bulb.png": "./static/media/bulb.6e78f6bf9e674651874d.png",
+    "static/media/bank2.png": "./static/media/bank2.28f2d6e9fefadfc1476d.png",
+    "static/media/tic.png": "./static/media/tic.58b914a3304e90861de4.png",
+    "static/media/todo.png": "./static/media/todo.f288ddbeadf92bb349f6.png",
+    "static/media/bank1.png": "./static/media/bank1.fa7667764e8026eba0e1.png",
+    "index.html": "./index.html",
+    "main.0364db46.css.map": "./static/css/main.0364db46.css.map",
+    "main.34087260.js.map": "./static/js/main.34087260.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0364db46.css",
+    "static/js/main.34087260.js"
+  ]
+}
